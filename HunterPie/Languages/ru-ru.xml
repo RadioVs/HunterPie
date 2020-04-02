@@ -171,11 +171,11 @@
     <Ailment ID="STATUS_SHOCKTRAP" Name="Шоковая Ловушка"/>
     <Ailment ID="STATUS_PITFALLTRAP" Name="Волчья Яма"/>
     <Ailment ID="STATUS_ELDERSEAL" Name="Печать Древнего"/>
+    <Ailment ID="STATUS_VINETRAP" Name="Лоза"/>
     <Ailment ID="STATUS_SMOKING" Name="Дымовая завеса"/>
     <Ailment ID="STATUS_FELYNETRAP" Name="Кошачья Ловушка"/>
     <Ailment ID="STATUS_CLAW" Name="Коготь"/>
-    <Ailment ID="STATUS_VIOLATED" Name="Боль"/>
-    <Ailment ID="STATUS_VIOLATED" Name="Флинч"/>
+    <Ailment ID="STATUS_VIOLATED" Name="Флинч от когтя"/>
   </Ailments>
   <Mantles>
     <Mantle ID="-1" Name="Нет Покрова"/>
