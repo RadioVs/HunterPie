@@ -442,7 +442,7 @@
       <String ID="STATIC_THEMEFILE" Name="Тема File:"/>
       <String ID="STATIC_THEMEFILE_DESC" Name="Выберите файл темы HunterPie."/>
       <String ID="STATIC_GAMEPATH" Name="Путь к игре:"/>
-      <String ID="STATIC_GAMEPATH_UNSELECTED" Name="Выберьте путь"/>
+      <String ID="STATIC_GAMEPATH_UNSELECTED" Name="Выберите путь"/>
       <String ID="STATIC_GAMEPATH_DESC" Name="Укажите путь к исполняемому файлу Monster Hunter World."/>
       <String ID="STATIC_LAUNCHARGS" Name="Аргументы запуска"/>
       <String ID="STATIC_LAUNCHARGS_NOARGS" Name="Нет аргументов"/>
